@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-This machine learning project predicts the forest cover type based on cartographic variables such as elevation, slope, aspect, and distances to hydrology, roadways, and fire points. The model is trained on the **Forest Cover Type dataset from the UCI ML Repository** and deployed via **Streamlit** for real-time predictions.
+This machine learning project predicts the forest cover type based on cartographic variables such as elevation, slope, aspect, and distances to hydrology, roadways, and fire points. The model is trained on the *Forest Cover Type dataset from the UCI ML Repository* and deployed via *Streamlit* for real-time predictions.
 
 ---
 
@@ -17,17 +17,18 @@ To predict one of the seven forest cover types (e.g., Spruce/Fir, Lodgepole Pine
 
 ## 🚀 Tech Stack
 
-- **Python 3.8+**
-- **Pandas, NumPy** – Data manipulation
-- **Matplotlib, Seaborn** – Visualization
-- **Scikit-learn** – Machine Learning (Random Forest)
-- **Pickle** – Model serialization
-- **Streamlit** – Interactive Web App
-- **Git, GitHub** – Version control and hosting
+- *Python 3.8+*
+- *Pandas, NumPy* – Data manipulation
+- *Matplotlib, Seaborn* – Visualization
+- *Scikit-learn* – Machine Learning (Random Forest)
+- *Pickle* – Model serialization
+- *Streamlit* – Interactive Web App
+- *Git, GitHub* – Version control and hosting
 
 ---
 
 ## 📁 Project Structure
+
 
 
 Forest\_Cover\_Type\_Prediction/
@@ -42,6 +43,8 @@ Forest\_Cover\_Type\_Prediction/
 ├── Forest\_Cover\_Type\_Prediction\_PPT.pptx
 └── README.md                      # Project documentation
 
+`
+
 ---
 
 ## 💡 Features
@@ -55,9 +58,9 @@ Forest\_Cover\_Type\_Prediction/
 
 ## 🧠 Model Details
 
-- **Algorithm**: Random Forest Classifier
-- **Accuracy**: _Replace with your actual model accuracy, e.g., 94.2%_
-- **Evaluation**: Confusion Matrix, Classification Report, Cross-Validation
+- *Algorithm*: Random Forest Classifier
+- *Accuracy*: Replace with your actual model accuracy, e.g., 94.2%
+- *Evaluation*: Confusion Matrix, Classification Report, Cross-Validation
 
 ---
 
@@ -87,14 +90,13 @@ streamlit run main.py
 
 ## 🧭 GitHub Topics
 
-`machine-learning` • `random-forest` • `streamlit` • `python` • `classification` • `geospatial-data` • `scikit-learn` • `uci-dataset` • `data-science` • `forest-cover-type`
-
+machine-learning • random-forest • streamlit • python • classification • geospatial-data • scikit-learn • uci-dataset • data-science • forest-cover-type
 
 ---
 
 ## 📬 Contact
 
-Created by **Garima Gupta**
+Created by *Garima Gupta*
 🔗 GitHub: (https://github.com/GarimaGupta40)
 
 
@@ -103,10 +105,3 @@ Created by **Garima Gupta**
 ## 🏷 License
 
 This project is open-source under the [MIT License](LICENSE).
-
----
-
-
-
-
-
