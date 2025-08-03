@@ -30,7 +30,6 @@ To predict one of the seven forest cover types (e.g., Spruce/Fir, Lodgepole Pine
 ## 📁 Project Structure
 
 
-
 Forest\_Cover\_Type\_Prediction/
 ├── main.py                         # Streamlit app for prediction
 ├── Forest\_Cover\_Type.ipynb        # EDA + Model training notebook
@@ -42,8 +41,6 @@ Forest\_Cover\_Type\_Prediction/
 ├── Forest\_Cover\_Type\_Prediction\_Report.pdf
 ├── Forest\_Cover\_Type\_Prediction\_PPT.pptx
 └── README.md                      # Project documentation
-
-`
 
 ---
 
